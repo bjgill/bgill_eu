@@ -1,6 +1,7 @@
 *.gif
-X11a_bw.png
+*.png
 *.zip
-Finished.tar.gz
+*.tar.gz
 *.pdf
 bgill_eu.sublime-workspace
+bgill_eu.sublime-project
